@@ -3,17 +3,17 @@ Prototype for an intuitive mobile application for courses at Sheridan College de
 
 # Prototype Versions
 
-Figma URL : [Version 1]() to see my first ever version of my prototype.
+First Prototype (Figma)  : [Version 1]() to see my first ever version of my prototype.
 
-Figma URL : [Version 2](https://www.figma.com/file/7yjD6vdRUxWVYLnVXccqFl/Assignment-2?type=design&node-id=0%3A1&mode=design&t=a0O25ZxAyVqXYcNW-1) to see my second and improved version of my prototype.
+Second Prototype (Figma) : [Version 2](https://www.figma.com/file/7yjD6vdRUxWVYLnVXccqFl/Assignment-2?type=design&node-id=0%3A1&mode=design&t=a0O25ZxAyVqXYcNW-1) 
 
 Youtube URL : [Version 2 of Prototype]([link to YouTube](https://sheridanc-my.sharepoint.com/:v:/g/personal/tangwins_shernet_sheridancollege_ca/EUBug4J-_lNHsO8HQGS0BUEBQQUPpbVJDHS6-f7wDPiMgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Uv6Cyf))
 
 # About 
 
-This is a Figma prototype based on a Course App for Sheridan students. The application will allow students to see and keep track of their course list and course assignments while also staying active in the community and chatting with peers.
+This is a Figma prototype based on Sheridan College's Continuous Learning Platform Course App for Sheridan students. The application will allow the students to see and keep track of their course list and course assignments while also staying active in the community and chatting with peers.
 
-# Top five new desirable functionalities that I have not seen before in any other apps
+# Top 5 new desirable functionalities that I have not seen before in any other apps
 
 1. Interactive Course Pathway Planner: A tool that allows users to visually map out their academic journey by selecting their major, interests, and goals. This functionality can suggest course sequences, prerequisites, and electives tailored to their career goals.
 
@@ -25,6 +25,3 @@ This is a Figma prototype based on a Course App for Sheridan students. The appli
 
 5. Mentorship Matching System: Develop a platform within the app that connects students with mentors, such as alumni, industry professionals, or senior students. Users can specify their mentorship needs, interests, and availability to be matched with a compatible mentor. This functionality addresses the expressed need for guidance and support while uncovering the latent need for networking opportunities and career advice.
 
-
-## Initial Prototype
-![Init](./initial-prototype.png)
