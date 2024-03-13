@@ -3,9 +3,7 @@ Prototype for an intuitive mobile application for courses at Sheridan College de
 
 # Prototype Versions
 
-First Prototype (Figma)  : [Version 1]() to see my first ever version of my prototype.
-
-Second Prototype (Figma) : [Version 2](https://www.figma.com/file/7yjD6vdRUxWVYLnVXccqFl/Assignment-2?type=design&node-id=0%3A1&mode=design&t=a0O25ZxAyVqXYcNW-1) 
+Prototype (Figma) : [Version 2](https://www.figma.com/file/7yjD6vdRUxWVYLnVXccqFl/Assignment-2?type=design&node-id=0%3A1&mode=design&t=a0O25ZxAyVqXYcNW-1) 
 
 Youtube URL : [Version 2 of Prototype]([link to YouTube](https://sheridanc-my.sharepoint.com/:v:/g/personal/tangwins_shernet_sheridancollege_ca/EUBug4J-_lNHsO8HQGS0BUEBQQUPpbVJDHS6-f7wDPiMgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Uv6Cyf))
 
